@@ -1,0 +1,5 @@
+.text-shadow
+{
+    color: rgb(80, 80, 80);
+    text-shadow: 2px 2px 4px rgb(66, 150, 125);
+}
